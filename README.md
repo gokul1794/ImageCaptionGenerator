@@ -16,8 +16,11 @@ Instructions to run
 To run locally
 
 1.Place the zip files into the same directory as your code
+
 2. Make sure to use 'incep_pkl.zip' while running the notebook 'Inception_caption' and 'vgg_pkl.zip' for running the 'Vgg_caption' file
+
 3. Use the first cell to unzip and load the files and then comment the same in subsequent runs
+
 4. No other specific instruction required
 
 To run on colab
