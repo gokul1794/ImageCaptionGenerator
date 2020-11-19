@@ -15,7 +15,7 @@ Instructions to run
 
 To run locally
 
-1.Place the zip files(models,incep_pkl,incep_pkl) into the same directory as your code
+ 1.Place the zip files(models,incep_pkl,incep_pkl) into the same directory as your code
 
 2. Make sure to use 'incep_pkl.zip' while running the notebook 'Inception_caption' and 'incep_pkl.zip' for running the 'Vgg_caption' file
 
